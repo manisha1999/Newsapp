@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": { "id": null, "name": "WOODTV.com" },
+      "author": "MIKE STOBBE AP Medical Writer",
+      "title": "Theories emerge for mysterious liver illnesses in children - WOODTV.com",
+      "description": "Health officials remain perplexed by mysterious cases of severe liver damage in hundreds of young children around the world.",
+      "url": "https://www.woodtv.com/news/national/theories-emerge-for-mysterious-liver-illnesses-in-children/",
+      "urlToImage": "https://www.woodtv.com/wp-content/uploads/sites/51/2022/05/Liver_Disease_Children_22142563902334-1.jpg?w=1280",
+      "publishedAt": "2022-05-23T08:55:43Z",
+      "content": "NEW YORK (AP) Health officials remain perplexed by mysterious cases of severe liver damage in hundreds of young children around the world.\r\nThe best available evidence points to a fairly common stoma… [+6113 chars]"
+    },
+    {
+      "source": { "id": null, "name": "KSL.com" },
+      "author": "Michael Erman, Reuters",
+      "title": "Explainer: How concerned should we be about monkeypox? - KSL.com",
+      "description": "Global health officials have sounded the alarm over rising cases in Europe and elsewhere of monkeypox, a type of viral infection more common to west and central Africa.",
+      "url": "https://www.ksl.com/article/50409200/explainer-how-concerned-should-we-be-about-monkeypox",
+      "urlToImage": "https://img.ksl.com/slc/2877/287759/28775977.JPG?filter=kslv2/responsive_story_lg",
+      "publishedAt": "2022-05-22T19:13:36Z",
+      "content": "Estimated read time: 3-4 minutes\r\nNEW YORK Global health officials have sounded the alarm over rising cases in Europe and elsewhere of monkeypox, a type of viral infection more common to west and cen… [+4052 chars]"
+    }
+  ]
+}
